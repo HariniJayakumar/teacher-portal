@@ -75,17 +75,6 @@ This will delete all present attendance data and create new attendance objects f
 
 ![alt text](https://imgur.com/4Rl7Fpv.png)
 
-### Student Page
-
-![alt text](https://imgur.com/isL9cjz.png)
-
-![alt text](https://imgur.com/5pzl7m3.png)
-
-![alt text](https://imgur.com/7zWhHZx.png)
-
-![alt text](https://imgur.com/fu7gxk8.png)
-
-![alt text](https://imgur.com/NZqU268.png)
 
 ### Admin Page
 
